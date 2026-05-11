@@ -1,3 +1,0 @@
-Logs.gdb
-CULTIVOS.gdb
-datos_pesados/
